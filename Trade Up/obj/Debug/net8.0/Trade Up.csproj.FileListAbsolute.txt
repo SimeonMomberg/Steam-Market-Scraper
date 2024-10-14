@@ -1,0 +1,35 @@
+C:\Users\mombe\OneDrive\Desktop\Programs\Steam Market\Trade Up\Trade Up\bin\Debug\net8.0\Trade Up.exe
+C:\Users\mombe\OneDrive\Desktop\Programs\Steam Market\Trade Up\Trade Up\bin\Debug\net8.0\Trade Up.deps.json
+C:\Users\mombe\OneDrive\Desktop\Programs\Steam Market\Trade Up\Trade Up\bin\Debug\net8.0\Trade Up.runtimeconfig.json
+C:\Users\mombe\OneDrive\Desktop\Programs\Steam Market\Trade Up\Trade Up\bin\Debug\net8.0\Trade Up.dll
+C:\Users\mombe\OneDrive\Desktop\Programs\Steam Market\Trade Up\Trade Up\bin\Debug\net8.0\Trade Up.pdb
+C:\Users\mombe\OneDrive\Desktop\Programs\Steam Market\Trade Up\Trade Up\obj\Debug\net8.0\Trade Up.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mombe\OneDrive\Desktop\Programs\Steam Market\Trade Up\Trade Up\obj\Debug\net8.0\Trade Up.AssemblyInfoInputs.cache
+C:\Users\mombe\OneDrive\Desktop\Programs\Steam Market\Trade Up\Trade Up\obj\Debug\net8.0\Trade Up.AssemblyInfo.cs
+C:\Users\mombe\OneDrive\Desktop\Programs\Steam Market\Trade Up\Trade Up\obj\Debug\net8.0\Trade Up.csproj.CoreCompileInputs.cache
+C:\Users\mombe\OneDrive\Desktop\Programs\Steam Market\Trade Up\Trade Up\obj\Debug\net8.0\Trade Up.dll
+C:\Users\mombe\OneDrive\Desktop\Programs\Steam Market\Trade Up\Trade Up\obj\Debug\net8.0\refint\Trade Up.dll
+C:\Users\mombe\OneDrive\Desktop\Programs\Steam Market\Trade Up\Trade Up\obj\Debug\net8.0\Trade Up.pdb
+C:\Users\mombe\OneDrive\Desktop\Programs\Steam Market\Trade Up\Trade Up\obj\Debug\net8.0\Trade Up.genruntimeconfig.cache
+C:\Users\mombe\OneDrive\Desktop\Programs\Steam Market\Trade Up\Trade Up\obj\Debug\net8.0\ref\Trade Up.dll
+C:\Users\mombe\OneDrive\Desktop\Programs\Steam Market\Trade Up\Trade Up\obj\Debug\net8.0\Trade Up.csproj.AssemblyReference.cache
+C:\Users\mombe\OneDrive\Desktop\Programs\Steam Market\Trade Up\Trade Up\obj\Debug\net8.0\Trade Up.csproj.Up2Date
+C:\Users\mombe\OneDrive\Desktop\Programs\Steam Market\Trade Up\Trade Up\bin\Debug\net8.0\HtmlAgilityPack.dll
+C:\Users\mombe\OneDrive\Desktop\Programs\Steam Market\Trade Up\Trade Up\bin\Debug\net8.0\EPPlus.dll
+C:\Users\mombe\OneDrive\Desktop\Programs\Steam Market\Trade Up\Trade Up\bin\Debug\net8.0\EPPlus.Interfaces.dll
+C:\Users\mombe\OneDrive\Desktop\Programs\Steam Market\Trade Up\Trade Up\bin\Debug\net8.0\EPPlus.System.Drawing.dll
+C:\Users\mombe\OneDrive\Desktop\Programs\Steam Market\Trade Up\Trade Up\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\mombe\OneDrive\Desktop\Programs\Steam Market\Trade Up\Trade Up\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mombe\OneDrive\Desktop\Programs\Steam Market\Trade Up\Trade Up\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\mombe\OneDrive\Desktop\Programs\Steam Market\Trade Up\Trade Up\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\mombe\OneDrive\Desktop\Programs\Steam Market\Trade Up\Trade Up\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\mombe\OneDrive\Desktop\Programs\Steam Market\Trade Up\Trade Up\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\mombe\OneDrive\Desktop\Programs\Steam Market\Trade Up\Trade Up\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\mombe\OneDrive\Desktop\Programs\Steam Market\Trade Up\Trade Up\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\mombe\OneDrive\Desktop\Programs\Steam Market\Trade Up\Trade Up\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\mombe\OneDrive\Desktop\Programs\Steam Market\Trade Up\Trade Up\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mombe\OneDrive\Desktop\Programs\Steam Market\Trade Up\Trade Up\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\mombe\OneDrive\Desktop\Programs\Steam Market\Trade Up\Trade Up\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\mombe\OneDrive\Desktop\Programs\Steam Market\Trade Up\Trade Up\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mombe\OneDrive\Desktop\Programs\Steam Market\Trade Up\Trade Up\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\mombe\OneDrive\Desktop\Programs\Steam Market\Trade Up\Trade Up\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
