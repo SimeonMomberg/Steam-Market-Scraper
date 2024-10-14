@@ -21,7 +21,7 @@ dotnet add package EPPlus
 
 ## How to Run
 Clone the repository or download the source code.
-git clone https://github.com/yourusername/steam-market-scraper.git
+git clone https://github.com/SimeonMomberg/Steam-Market-Scraper.git
 cd steam-market-scraper
 Build and run the project:
 dotnet build
